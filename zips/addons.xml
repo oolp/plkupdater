@@ -18,9 +18,9 @@
 <addon id="repository.plkupdater" name="PLK Updater" version="0.0.1" provider-name="oolp">
 	<extension point="xbmc.addon.repository" name="OOLPPLK Repository">
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/oolp/plkupdater/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/oolp/plkupdater/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/oolp/plkupdater/master/zips/</datadir>
 		</dir>
 		<info compressed="false">https://raw.githubusercontent.com/oolp/repository.plkupdater/master/zips/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/oolp/repository.plkupdater/master/zips/addons.xml.md5</checksum>
